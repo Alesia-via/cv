@@ -9,7 +9,7 @@ discord: Alesiavia(@alesia-via)
 telegram: @alesiaviarkhoutsava
 
 ### **About me**
-A detail‑oriented and proactive Project Manager with a strong foundation in analytics, cross‑team coordination, and process optimization. My background in Sales Analysis and Project Support allows me to approach tasks with a data‑driven mindset, improve workflows, and keep projects moving smoothly from planning to delivery.
+A detail‑oriented and proactive project manager with a strong foundation in analytics, cross‑team coordination, and process optimization. My background in sales managment and project support allows me to approach tasks with a data‑driven mindset, improve workflows, and keep projects moving smoothly from planning to delivery.
 
 I help teams stay organized, meet deadlines, and maintain clear communication by structuring tasks, identifying risks early, and ensuring alignment between stakeholders. A basic understanding of HTML, CSS, and JavaScript helps me collaborate more effectively with developers and manage technical requirements with confidence.
 Focused on bringing clarity to projects, improving processes, and supporting clients in achieving predictable, high‑quality results. Open to both short‑term tasks and long‑term collaboration. 
@@ -30,7 +30,7 @@ Focused on bringing clarity to projects, improving processes, and supporting cli
 *VS Code 
 *SQL basic
 *Jira
-*Excel, google sheets
+*Excel, Google sheets
 
 ### **Education:**
 
